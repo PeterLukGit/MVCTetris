@@ -8,7 +8,11 @@
 
 更多的是對MVC的初步認識
 
-### 使用方式
+![00](https://github.com/PeterLukGit/MVCTetris/blob/master/00.PNG)
+
+![01](https://github.com/PeterLukGit/MVCTetris/blob/master/01.PNG)
+
+## 使用方式
 
 1. 開一個2D空專案
 2. 下載Dotween免費版
